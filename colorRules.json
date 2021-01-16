@@ -51,8 +51,7 @@
     "from": "2021-01-07",
     "to": "2021-01-08",
     "color": "gialla",
-    "any": true,
-    "notes": "Sono vietati gli spostamenti tra regioni."
+    "any": true
   },
   {
     "from": "2021-01-09",
@@ -94,9 +93,45 @@
     ]
   },
   {
-    "from": "2021-01-16",
-    "to": "2021-01-17",
+    "from": "2021-01-17",
+    "to": "2021-03-05",
+    "color": "gialla",
+    "regions": [
+      "basilicata",
+      "campania",
+      "molise",
+      "trento",
+      "sardegna",
+      "toscana"
+    ]
+  },
+  {
+    "from": "2021-01-17",
+    "to": "2021-03-05",
     "color": "arancione",
-    "any": true
+    "regions": [
+      "abruzzo",
+      "calabria",
+      "emiliaromagna",
+      "friuliveneziagiulia",
+      "lazio",
+      "liguria",
+      "marche",
+      "piemonte",
+      "puglia",
+      "umbria",
+      "valdaosta",
+      "veneto"
+    ]
+  },
+  {
+    "from": "2021-01-17",
+    "to": "2021-03-05",
+    "color": "rossa",
+    "regions": [
+      "bolzano",
+      "lombardia",
+      "sicilia"
+    ]
   }
 ]
