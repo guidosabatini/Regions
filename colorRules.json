@@ -2,36 +2,6 @@
   {
     "from": "2020-12-04",
     "to": "2021-01-05",
-    "color": "gialla",
-    "regions": [
-      "lazio",
-      "liguria",
-      "molise",
-      "trento",
-      "sardegna",
-      "sicilia",
-      "veneto"
-    ]
-  },
-  {
-    "from": "2020-12-04",
-    "to": "2021-01-05",
-    "color": "arancione",
-    "regions": [
-      "basilicata",
-      "calabria",
-      "emiliaromagna",
-      "friuliveneziagiulia",
-      "lombardia",
-      "marche",
-      "piemonte",
-      "puglia",
-      "umbria"
-    ]
-  },
-  {
-    "from": "2020-12-04",
-    "to": "2021-01-05",
     "color": "rossa",
     "regions": [
       "abruzzo",
