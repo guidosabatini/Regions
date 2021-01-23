@@ -103,5 +103,44 @@
       "lombardia",
       "sicilia"
     ]
+  },
+  {
+    "from": "2021-01-23",
+    "color": "gialla",
+    "regions": [
+      "basilicata",
+      "campania",
+      "molise",
+      "trento",
+      "toscana"
+    ]
+  },
+  {
+    "from": "2021-01-23",
+    "color": "arancione",
+    "regions": [
+      "abruzzo",
+      "calabria",
+      "emiliaromagna",
+      "friuliveneziagiulia",
+      "lazio",
+      "liguria",
+      "lombardia",
+      "marche",
+      "piemonte",
+      "puglia",
+      "sardegna",
+      "umbria",
+      "valdaosta",
+      "veneto"
+    ]
+  },
+  {
+    "from": "2021-01-23",
+    "color": "rossa",
+    "regions": [
+      "bolzano",
+      "sicilia"
+    ]
   }
 ]
