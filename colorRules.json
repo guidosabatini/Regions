@@ -175,5 +175,38 @@
       "bolzano",
       "sicilia"
     ]
+  },
+  {
+    "from": "2021-02-01",
+    "color": "arancione",
+    "regions": [
+      "puglia",
+      "sardegna",
+      "sicilia",
+      "umbria",
+      "bolzano"
+    ]
+  },
+  {
+    "from": "2021-02-01",
+    "color": "gialla",
+    "regions": [
+      "abruzzo",
+      "basilicata",
+      "calabria",
+      "campania",
+      "emiliaromagna",
+      "friuliveneziagiulia",
+      "lazio",
+      "liguria",
+      "lombardia",
+      "marche",
+      "molise",
+      "piemonte",
+      "toscana",
+      "trento",
+      "valdaosta",
+      "veneto"
+    ]
   }
 ]
