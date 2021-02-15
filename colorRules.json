@@ -208,5 +208,62 @@
       "valdaosta",
       "veneto"
     ]
+  },
+  {
+    "from": "2021-02-08",
+    "color": "arancione",
+    "regions": [
+      "bolzano",
+      "puglia",
+      "sicilia",
+      "umbria"
+    ]
+  },
+  {
+    "from": "2021-02-08",
+    "color": "gialla",
+    "regions": [
+      "abruzzo",
+      "basilicata",
+      "calabria",
+      "campania",
+      "emiliaromagna",
+      "friuliveneziagiulia",
+      "lazio",
+      "liguria",
+      "lombardia",
+      "marche",
+      "molise",
+      "piemonte",
+      "trento",
+      "sardegna",
+      "toscana",
+      "valdaosta",
+      "veneto"
+    ]
+  },
+  {
+    "from": "2021-02-11",
+    "color": "gialla",
+    "regions": [
+      "puglia"
+    ]
+  },
+  {
+    "from": "2021-02-14",
+    "color": "arancione",
+    "regions": [
+      "toscana",
+      "trento",
+      "abruzzo",
+      "liguria"
+    ]
+  },
+  {
+    "from": "2021-02-15",
+    "color": "gialla",
+    "regions": [
+      "sicilia"
+    ]
   }
 ]
