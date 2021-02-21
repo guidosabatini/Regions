@@ -265,5 +265,43 @@
     "regions": [
       "sicilia"
     ]
+  },
+  {
+    "from": "2021-02-17",
+    "color": "gialla",
+    "regions": [
+      "lombardia"
+    ]
+  },
+  {
+    "from": "2021-02-17",
+    "color": "gialla",
+    "regions": [
+      "marche"
+    ]
+  },
+  {
+    "from": "2021-02-21",
+    "color": "arancione",
+    "regions": [
+      "molise",
+      "emiliaromagna",
+      "campania"
+    ]
+  },
+  {
+    "from": "2021-02-21",
+    "color": "rossa",
+    "regions": [
+      "bolzano",
+      "umbria"
+    ]
+  },
+  {
+    "from": "2021-02-21",
+    "color": "bianca",
+    "regions": [
+      "valdaosta"
+    ]
   }
 ]
