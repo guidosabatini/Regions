@@ -303,5 +303,47 @@
     "regions": [
       "valdaosta"
     ]
+  },
+  {
+    "from": "2021-02-27",
+    "color": "arancione",
+    "regions": [
+      "emiliaromagna"
+    ]
+  },
+  {
+    "from": "2021-03-01",
+    "color": "bianca",
+    "regions": [
+      "sardegna"
+    ],
+    "maybe": true
+  },
+  {
+    "from": "2021-03-01",
+    "color": "gialla",
+    "regions": [
+      "liguria"
+    ],
+    "maybe": true
+  },
+  {
+    "from": "2021-03-01",
+    "color": "arancione",
+    "regions": [
+      "lombardia",
+      "piemonte",
+      "marche"
+    ],
+    "maybe": true
+  },
+  {
+    "from": "2021-03-01",
+    "color": "rossa",
+    "regions": [
+      "basilicata",
+      "molise"
+    ],
+    "maybe": true
   }
 ]
