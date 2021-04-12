@@ -423,5 +423,20 @@
     "color": "rossa",
     "any": true,
     "notes": "Consentito lo spostamento verso una sola abitazione nel proprio comune, una volta al giorno, tra le 5:00 e le 22:00, per un massimo di due visitatori."
-  }
+  },
+  {
+    "from": "2021-04-12",
+    "color": "arancione",
+    "any": true
+  },
+  {
+    "from": "2021-03-15",
+    "color": "rossa",
+    "regions": [
+      "valdaosta",
+      "puglia",
+      "campania",
+      "sardegna"
+    ]
+  },
 ]
