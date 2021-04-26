@@ -439,4 +439,51 @@
       "sardegna"
     ]
   },
+  {
+    "from": "2021-04-19",
+    "color": "arancione",
+    "regions": [
+      "campania"
+    ]
+  },
+  {
+    "from": "2021-04-26",
+    "color": "rossa",
+    "regions": [
+      "sardegna"
+    ]
+  },
+  {
+    "from": "2021-04-26",
+    "color": "arancione",
+    "regions": [
+      "calabria",
+      "sicilia",
+      "valdaosta",
+      "basilicata",
+      "puglia"
+    ]
+  },
+  {
+    "from": "2021-04-26",
+    "color": "gialla",
+    "regions": [
+      "abruzzo",
+      "campania",
+      "emiliaromagna",
+      "friuliveneziagiulia",
+      "lazio",
+      "liguria",
+      "lombardia",
+      "marche",
+      "molise",
+      "piemonte",
+      "sardegna",
+      "toscana",
+      "umbria",
+      "veneto",
+      "bolzano",
+      "trento"
+    ]
+  }
 ]
