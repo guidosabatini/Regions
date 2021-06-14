@@ -16,5 +16,24 @@
       "sardegna",
       "molise"
     ]
+  },
+  {
+    "from": "2021-06-14",
+    "color": "bianca",
+    "any": true
+  },
+  {
+    "from": "2021-06-14",
+    "color": "gialla",
+    "regions": [
+      "basilicata",
+      "calabria",
+      "campania",
+      "marche",
+      "bolzano",
+      "sicilia",
+      "toscana",
+      "valdaosta"
+    ]
   }
 ]
